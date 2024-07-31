@@ -162,4 +162,4 @@ cython_debug/
 #.idea/
 
 # Django
-messaging_system/messaging_system/settings.py
+messaging_system/settings.py
